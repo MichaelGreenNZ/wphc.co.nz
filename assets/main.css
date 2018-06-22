@@ -1,0 +1,145 @@
+sup.superscript {
+  vertical-align: super;
+  font-size: smaller;
+  line-height: normal;
+}
+
+a.footerLink:link, a.footerLink:visited {
+    color: #ffffff;
+}
+
+a.footerLink:hover, a.footerLink:active {
+    color: #649ecb;
+    text-decoration: underline;
+}
+
+.jumbotron {
+    text-align: center;
+    background: none;   
+}
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.sectionDark {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.sectionBlue {
+    background-color: #649ecb;
+    padding: 2rem;
+}
+
+.btn-blue {
+    color: #eceeef;
+    background-color: #649ecb;
+    border-color: #649ecb;
+}
+
+.noPadding {
+    padding: 0;
+}
+
+.noMargin {
+    margin: 0;
+}
+
+h1.mainContent {
+    text-align: center;
+}
+
+h1.mainContent1 {
+    text-align: center;
+}
+
+h1.mainContent2 {
+    text-align: center;
+}
+
+h1.mainServices {
+    padding-bottom: 1.5rem;
+    text-align: center;
+}
+
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 74%;
+}
+
+div.contactSuccess {
+    text-align: center;
+}
+
+div.contactError {
+    text-align: center;
+}
+
+div.mainServicesRow {
+    padding-bottom: 2rem;
+    margin: auto;
+}
+
+div.servicesMore {
+    padding-top: 2rem;
+}
+
+div.ourServicesMore {
+    text-align: center;
+    padding-top: 2rem;
+}
+
+label {
+    color: #333;
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 20px;
+}
+
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px;
+}
+
+.footerImg {
+    margin: auto;
+}
+
+div.footerLinks {
+    color: #eceeef;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+ul.footerNav {
+    font-size: 0.8rem;
+}
+
+div.footerContactInfo {
+    font-size: 0.8rem;
+    color: #eceeef;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+div.footerContactBtn {
+    margin: auto;
+    text-align: center;
+}
